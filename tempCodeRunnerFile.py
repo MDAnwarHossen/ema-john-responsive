@@ -680,7 +680,7 @@ def main(page: ft.Page):
                 [
                     ft.Container(
                         content=ft.Image(
-                            src="./logo.png",
+                            src="./assets/logo.png",
                             expand=True,
                             fit=ft.ImageFit.CONTAIN,
                         ),
